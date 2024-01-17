@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  collectionViewDemo
-//
-//  Created by Aniket Patil on 15/01/24.
-//
-
 import UIKit
 
 @main
